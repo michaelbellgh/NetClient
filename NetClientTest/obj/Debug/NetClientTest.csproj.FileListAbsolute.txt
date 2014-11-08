@@ -1,0 +1,16 @@
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClientTest\bin\Debug\NetClientTest.exe.config
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClientTest\bin\Debug\NetClientTest.exe
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClientTest\bin\Debug\NetClientTest.pdb
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClientTest\bin\Debug\NetClient.dll
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClientTest\bin\Debug\NetClient.pdb
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClientTest\obj\Debug\NetClientTest.csprojResolveAssemblyReference.cache
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClientTest\obj\Debug\NetClientTest.exe
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClientTest\obj\Debug\NetClientTest.pdb
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClientTest\bin\Debug\NetClientTest.exe.config
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClientTest\obj\Debug\NetClientTest.exe
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClientTest\obj\Debug\NetClientTest.pdb
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClientTest\bin\Debug\NetClientTest.exe
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClientTest\bin\Debug\NetClientTest.pdb
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClientTest\bin\Debug\NetClient.dll
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClientTest\bin\Debug\NetClient.pdb
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClientTest\obj\Debug\NetClientTest.csprojResolveAssemblyReference.cache

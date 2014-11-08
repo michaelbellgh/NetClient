@@ -1,0 +1,10 @@
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClient\bin\Debug\NetClient.dll
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClient\bin\Debug\NetClient.pdb
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClient\obj\Debug\NetClient.dll
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClient\obj\Debug\NetClient.pdb
+G:\Google Drive\Uni\COS30008 Data Structures and Patterns\Projects\NetClient\NetClient\obj\Debug\NetClient.csprojResolveAssemblyReference.cache
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClient\bin\Debug\NetClient.dll
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClient\bin\Debug\NetClient.pdb
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClient\obj\Debug\NetClient.dll
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClient\obj\Debug\NetClient.pdb
+G:\My Documents\Visual Studio 2013\Projects\NetClient\NetClient\obj\Debug\NetClient.csprojResolveAssemblyReference.cache
